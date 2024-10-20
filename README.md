@@ -1,8 +1,8 @@
 <img src="https://github.com/ronallds/ronallds/blob/378e0e8a98e2f8a4965d3dcec739c9c5de020b12/data-illustration.png" min-width="230px" max-width="230px" width="230px" align="right">
 
-<p align="left"> 
-  <b>Olá, sou Ronald!</b> 👋😄
 
+<h3>Olá, sou Ronald!</h3> 👋😄
+<p align="left"> 
   🎓 **Discente de Gestão de TI** | FATEC  
   💼 **Estagiário em Análise de Dados e Insights** | RD Saúde
 </p>
