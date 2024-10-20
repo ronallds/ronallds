@@ -5,7 +5,7 @@
 
 <h3 align="left"> 
   🎓 <b>Discente de Gestão de TI  ●  FATEC </b><br>
-  💼 <b>Estagiário em Análise de Dados e Insights  ●  RD Saúde <img src="https://cdn.rd.com.br/prod-v2/2024/03/5e4b1d46-af_rd_saude_logo_tagline_fundo_branco_rgb-1024x576.png" min-width="150px" max-width="150px" width="150px" align="right"></b>
+  💼 <b>Estagiário em Análise de Dados e Insights  ●  RD Saúde </b>
 </h3>
 
 <p align="left" size="30">
