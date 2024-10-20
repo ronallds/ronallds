@@ -1,12 +1,12 @@
 
+<img src="https://github.com/ronallds/ronallds/blob/378e0e8a98e2f8a4965d3dcec739c9c5de020b12/data-illustration.png" min-width="230px" max-width="230px" width="230px" align="right">
+
 <h2>Olá, sou o Ronald!👋😄</h2>
 
 <h3 align="left"> 
   🎓 <b>Discente de Gestão de TI | FATEC </b><br>
   💼 <b>Estagiário em Análise de Dados e Insights | RD Saúde </b>
 </h3>
-
-<img src="https://github.com/ronallds/ronallds/blob/378e0e8a98e2f8a4965d3dcec739c9c5de020b12/data-illustration.png" min-width="380px" max-width="380px" width="380px" align="right">
 
 <p align="left" size="30">
 🇧🇷
