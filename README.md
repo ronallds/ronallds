@@ -1,8 +1,10 @@
-<img src="https://github.com/ronallds/ronallds/blob/378e0e8a98e2f8a4965d3dcec739c9c5de020b12/data-illustration.png" alt="ilustração de um computador" min-width="230px" max-width="230px" width="230px" align="right">
+<img src="https://github.com/ronallds/ronallds/blob/378e0e8a98e2f8a4965d3dcec739c9c5de020b12/data-illustration.png" min-width="230px" max-width="230px" width="230px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  <b>Olá, sou Ronald!</b> 👋😄
+
+  🎓 **Discente de Gestão de TI | FATEC**  
+  💼 **Estagiário em Análise de Dados e Insights | RD Saúde**
 </p>
 
 <p align="left">
