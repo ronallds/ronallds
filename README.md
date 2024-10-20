@@ -3,8 +3,8 @@
 <p align="left"> 
   <b>Olá, sou Ronald!</b> 👋😄
 
-  🎓 **Discente de Gestão de TI | FATEC**  
-  💼 **Estagiário em Análise de Dados e Insights | RD Saúde**
+  🎓 **Discente de Gestão de TI** | FATEC  
+  💼 **Estagiário em Análise de Dados e Insights** | RD Saúde
 </p>
 
 <p align="left">
