@@ -13,7 +13,7 @@ Tenho 21 anos, sou estudante de Gestão de Tecnologia da Informação na FATEC e
 Minhas competências incluem:
 
 - **Visualização:** Microsoft Power BI
-- **ETL:** Excel e Alteryx
+- **ETL:** Excel, Alteryx e aprendendo Python voltado a ETL
 - **Banco de Dados:** DML e DQL - experiencia com Oracle e Redshift
 - **Data-Driven:** Apoio as áreas de negócio da área comercial, ajudando a traduzir dados complexos em ações práticas.
 
