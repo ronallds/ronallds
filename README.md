@@ -1,4 +1,4 @@
-<img src="https://github.com/ronallds/ronallds/blob/378e0e8a98e2f8a4965d3dcec739c9c5de020b12/data-illustration.png" min-width="230px" max-width="230px" width="230px" align="right">
+<img src="https://github.com/ronallds/ronallds/blob/378e0e8a98e2f8a4965d3dcec739c9c5de020b12/data-illustration.png" min-width="350px" max-width="350px" width="350px" align="right">
 
 
 <h2>Olá, sou o Ronald!👋😄</h2>
