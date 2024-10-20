@@ -17,16 +17,3 @@ Sou estudante de Gestão de Tecnologia da Informação na FATEC e fascinado por 
 🇺🇸
 I'm an Information Technology Management student at FATEC and I'm fascinated by data. As an intern in the data area, my main mission is to transform data into valuable insights to support strategic decisions in the business areas, promoting a data-driven culture within the company.
 </p>
-
-<h3 align="left"> 
-  Minhas competências incluem:
-</h3>
-
-<ul>
-  <li><b>Visualização:</b> Microsoft Power BI.</li>
-  <li><b>ETL:</b> Excel e Alteryx.</li>
-  <li><b>Banco de Dados:</b> DML e DQL - experiencia com Oracle e Redshift.</li>
-  <li><b>Data-Driven:</b> Apoio as áreas de negócio da área comercial, ajudando a traduzir dados complexos em ações práticas.</li>
-</ul>
-
-  Na faculdade, estudo disciplinas como Estatística, Inteligência de Negócios, Bancos de Dados, Gestão Financeira e Algoritmos, e alinho esses conhecimentos com minha atuação no estágio para aprimorar meu desempenho na área de análise de dados.
