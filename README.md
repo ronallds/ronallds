@@ -21,16 +21,4 @@
   - **Data-Driven:** Apoio as áreas de negócio da área comercial, ajudando a traduzir dados complexos em ações práticas.
   
   Durante a faculdade, estudo disciplinas como Estatística, Inteligência de Negócios, Bancos de Dados, Gestão Financeira e Algoritmos, e alinho esses conhecimentos com minha atuação no estágio para aprimorar meu desempenho na área de análise de dados.
-
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://www.flaticon.com/br/icone-gratis/linkedin_145807?term=linkedin&page=1&position=2&origin=search&related_id=145807" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
+  
