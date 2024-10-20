@@ -14,15 +14,13 @@
 <h3 align="left"> 
   Minhas competências incluem:
 </h3>
-
-<p align="left">
+  
   - **Visualização:** Microsoft Power BI
   - **ETL:** Excel e Alteryx
   - **Banco de Dados:** DML e DQL - experiencia com Oracle e Redshift
   - **Data-Driven:** Apoio as áreas de negócio da área comercial, ajudando a traduzir dados complexos em ações práticas.
   
   Durante a faculdade, estudo disciplinas como Estatística, Inteligência de Negócios, Bancos de Dados, Gestão Financeira e Algoritmos, e alinho esses conhecimentos com minha atuação no estágio para aprimorar meu desempenho na área de análise de dados.
-</p>
 
 <p align="left">
   <a href="#" title="Gmail">
