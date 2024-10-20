@@ -1,4 +1,4 @@
-<img src="https://github.com/ronallds/ronallds/blob/378e0e8a98e2f8a4965d3dcec739c9c5de020b12/data-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/ronallds/ronallds/blob/378e0e8a98e2f8a4965d3dcec739c9c5de020b12/data-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
 <p align="left"> 
   Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
