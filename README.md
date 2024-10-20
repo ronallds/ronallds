@@ -23,5 +23,5 @@ Durante a faculdade, estudo disciplinas como Estatística, Inteligência de Neg�
 
 ## Conecte-se Comigo
 
-- [LinkedIn](https:://www.linkedin.com/in/ronallds/)
+- [LinkedIn](https://www.linkedin.com/in/ronallds/)
 - [E-mail](mailto:soaresronald.2003@gmail.com)
