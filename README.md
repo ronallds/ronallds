@@ -2,23 +2,25 @@
 
 
 <h2>Olá, sou o Ronald!👋😄</h2>
-<p align="left"> 
+<h3 align="left"> 
   🎓 <b>Discente de Gestão de TI</b> | FATEC <br>
   💼 <b>Estagiário em Análise de Dados e Insights</b> | RD Saúde
-</p>
+</h3>
 
-Tenho 21 anos, sou estudante de Gestão de Tecnologia da Informação na FATEC e fascinado por dados. Como autodidata e estagiário na área de dados, minha principal missão é transformar dados em insights valiosos para suportar decisões estratégicas das áreas de negócio, promovendo uma cultura data-driven dentro da empresa.
+<h3 align="left"> 
+      Tenho 21 anos, sou estudante de Gestão de Tecnologia da Informação na FATEC e fascinado por dados. Como autodidata e estagiário na área de dados, minha principal missão é transformar dados em insights valiosos para suportar decisões estratégicas das áreas de negócio, promovendo uma cultura data-driven dentro da empresa.
+  
+  Minhas competências incluem:
+  
+  - **Visualização:** Microsoft Power BI
+  - **ETL:** Excel e Alteryx
+  - **Banco de Dados:** DML e DQL - experiencia com Oracle e Redshift
+  - **Data-Driven:** Apoio as áreas de negócio da área comercial, ajudando a traduzir dados complexos em ações práticas.
+  
+  Durante a faculdade, estudo disciplinas como Estatística, Inteligência de Negócios, Bancos de Dados, Gestão Financeira e Algoritmos, e alinho esses conhecimentos com minha atuação no estágio para aprimorar meu desempenho na área de análise de dados.
+</h3>
 
-Minhas competências incluem:
-
-- **Visualização:** Microsoft Power BI
-- **ETL:** Excel e Alteryx
-- **Banco de Dados:** DML e DQL - experiencia com Oracle e Redshift
-- **Data-Driven:** Apoio as áreas de negócio da área comercial, ajudando a traduzir dados complexos em ações práticas.
-
-Durante a faculdade, estudo disciplinas como Estatística, Inteligência de Negócios, Bancos de Dados, Gestão Financeira e Algoritmos, e alinho esses conhecimentos com minha atuação no estágio para aprimorar meu desempenho na área de análise de dados.
-
-<p align="left">
+<h3 align="left">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
@@ -29,4 +31,4 @@ Durante a faculdade, estudo disciplinas como Estatística, Inteligência de Neg�
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
+</h3>
