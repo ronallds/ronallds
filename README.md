@@ -1,27 +1,31 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-# Olá, sou Ronald! 👋😄
+<p align="left"> 
+  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
 
-🎓 **Discente de Gestão de TI | FATEC**  
-💼 **Estagiário em Análise de Dados e Insights | RD Saúde**
+<p align="left">
+  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+</p>
 
----
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+</p>
 
-## Sobre Mim
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
-Tenho 21 anos, sou estudante de Gestão de Tecnologia da Informação na FATEC e fascinado por dados. Como autodidata e estagiário na área de dados, minha principal missão é transformar dados em insights valiosos para suportar decisões estratégicas das áreas de negócio, promovendo uma cultura data-driven dentro da empresa.
-
-Minhas competências incluem:
-
-- **Visualização:** Microsoft Power BI
-- **ETL:** Excel, Alteryx e aprendendo Python voltado a ETL
-- **Banco de Dados:** DML e DQL - experiencia com Oracle e Redshift
-- **Data-Driven:** Apoio as áreas de negócio da área comercial, ajudando a traduzir dados complexos em ações práticas.
-
-Durante a faculdade, estudo disciplinas como Estatística, Inteligência de Negócios, Bancos de Dados, Gestão Financeira e Algoritmos, e alinho esses conhecimentos com minha atuação no estágio para aprimorar meu desempenho na área de análise de dados.
-
----
-
-## Conecte-se Comigo
-
-- [LinkedIn](https://www.linkedin.com/in/ronallds/)
-- [E-mail](mailto:soaresronald.2003@gmail.com)
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
