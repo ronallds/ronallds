@@ -1,7 +1,7 @@
 
 <h2>Olá, sou o Ronald!👋😄</h2>
 
-<img src="https://github.com/ronallds/ronallds/blob/378e0e8a98e2f8a4965d3dcec739c9c5de020b12/data-illustration.png" min-width="260px" max-width="260px" width="260px" align="right">
+<img src="https://github.com/ronallds/ronallds/blob/378e0e8a98e2f8a4965d3dcec739c9c5de020b12/data-illustration.png" min-width="290px" max-width="290px" width="290px" align="right">
 
 <h3 align="left"> 
   🎓 <b>Discente de Gestão de TI | FATEC </b><br>
@@ -15,5 +15,5 @@ Sou estudante de Gestão de Tecnologia da Informação na FATEC e fascinado por 
 
 <p align="left" size="30">
 🇺🇸
-I'm an Information Technology Management student at FATEC and I'm fascinated by data. As an intern in the data area, my main mission is to transform data into valuable insights to support strategic decisions in the business areas, promoting a data-driven culture within the company.
+An IT Management undergraduate at FATEC and fascinated by data. As an intern in the data area, my main mission is to transform data into valuable insights to support strategic decisions in the business areas, promoting a data-driven culture within the company.
 </p>
