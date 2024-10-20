@@ -23,4 +23,4 @@
   <li><b>Data-Driven:</b> Apoio as áreas de negócio da área comercial, ajudando a traduzir dados complexos em ações práticas.</li>
 </ul>
 
-  Durante a faculdade, estudo disciplinas como Estatística, Inteligência de Negócios, Bancos de Dados, Gestão Financeira e Algoritmos, e alinho esses conhecimentos com minha atuação no estágio para aprimorar meu desempenho na área de análise de dados.
+  Na faculdade, estudo disciplinas como Estatística, Inteligência de Negócios, Bancos de Dados, Gestão Financeira e Algoritmos, e alinho esses conhecimentos com minha atuação no estágio para aprimorar meu desempenho na área de análise de dados.
